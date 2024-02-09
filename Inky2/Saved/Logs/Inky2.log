@@ -1699,3 +1699,5 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.02.09-05.42.18:169][ 80]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.02.09-05.42.18:215][ 80]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
 [2024.02.09-05.42.21:407][ 80]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.02.09-05.42.21:560][ 80]LogExit: Exiting.
+[2024.02.09-05.42.21:857][ 80]Log file closed, 02/09/24 00:42:21

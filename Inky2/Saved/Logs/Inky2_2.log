@@ -2234,3 +2234,5 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.02.09-05.42.18:169][342]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.02.09-05.42.18:215][342]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
 [2024.02.09-05.42.21:407][342]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.02.09-05.42.21:581][342]LogExit: Exiting.
+[2024.02.09-05.42.21:706][342]Log file closed, 02/09/24 00:42:21
