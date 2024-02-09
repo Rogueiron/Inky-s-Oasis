@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lvandehey/Desktop/Inky-s-Oasis/Inky2/Content/FirstPersonArms/Character/Mesh/Arms.uasset",
+				"C:/Users/lvandehey/Desktop/Inky-s-Oasis/Inky2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/lvandehey/Desktop/Inky-s-Oasis/Inky2/Content/FirstPersonArms/Character/Mesh/WaterGun.uasset",
 				"D:/UnrealProjects/Inky2/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"D:/UnrealProjects/Inky2/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"D:/UnrealProjects/Inky2/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
