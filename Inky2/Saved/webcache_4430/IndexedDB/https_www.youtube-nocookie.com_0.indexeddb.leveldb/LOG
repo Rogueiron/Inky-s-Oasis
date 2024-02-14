@@ -1,0 +1,6 @@
+2024/02/14-13:26:51.645 2e24 Creating DB C:/Users/lvandehey/Desktop/Inky-s-Oasis/Inky2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/02/14-13:26:51.916 2e24 Reusing MANIFEST C:/Users/lvandehey/Desktop/Inky-s-Oasis/Inky2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/14-13:29:47.233 2e24 Level-0 table #5: started
+2024/02/14-13:29:47.627 2e24 Level-0 table #5: 1167 bytes OK
+2024/02/14-13:29:47.668 2e24 Delete type=0 #3
+2024/02/14-13:29:47.682 2e24 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
